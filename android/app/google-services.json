@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824832350131",
+    "project_id": "cmsc23-todo-app-sclee4",
+    "storage_bucket": "cmsc23-todo-app-sclee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824832350131:android:7d5235fa9ebe6117d5ddc6",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824832350131-dp3jmjj6l2kkd8ikv99q4ehm53hkrb55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjuNuaaH6JBfu48Vp7gJ_YYHRy88Noqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824832350131-dp3jmjj6l2kkd8ikv99q4ehm53hkrb55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
